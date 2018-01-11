@@ -1,0 +1,3385 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RealHomes Theme\n"
+"POT-Creation-Date: 2017-05-27 10:19+0700\n"
+"PO-Revision-Date: 2017-06-06 09:59+0700\n"
+"Last-Translator: Saqib <saqib@inspirythemes.com>\n"
+"Language-Team: PPO VIET NAM <info@ppo.vn>\n"
+"Language: vi_VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: archive.php:7 archive.php:23 archive.php:28 archive.php:33 archive.php:44
+msgid "Archives"
+msgstr ""
+
+#: archive.php:13
+msgid "All Posts in Category"
+msgstr ""
+
+#: archive.php:18
+msgid "All Posts in Tag"
+msgstr ""
+
+#: archive.php:39
+msgid "All Posts By"
+msgstr ""
+
+#: banners/blog_page_banner.php:3 framework/admin/theme-settings.php:476
+#: framework/admin/theme-settings.php:482
+msgid "News"
+msgstr ""
+
+#: banners/blog_page_banner.php:6 framework/admin/theme-settings.php:488
+msgid "Check out market updates"
+msgstr ""
+
+#: banners/map_based_banner.php:124
+#: property-details/property-agent-for-sidebar.php:81
+#: property-details/property-agent.php:83 template-parts/carousel.php:58
+#: template-parts/separate-slider.php:59 template-parts/slider.php:46
+msgid "Know More"
+msgstr "Tìm hiểu thêm"
+
+#: comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:11
+msgid "No Comment"
+msgstr ""
+
+#: comments.php:11
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:11
+msgid "(%) Comments"
+msgstr ""
+
+#: comments.php:30
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:11 functions.php:158
+msgid "Footer First Column"
+msgstr ""
+
+#: footer.php:16 functions.php:166
+msgid "Footer Second Column"
+msgstr ""
+
+#: footer.php:21 functions.php:174
+msgid "Footer Third Column"
+msgstr ""
+
+#: footer.php:26 functions.php:182
+msgid "Footer Fourth Column"
+msgstr ""
+
+#: framework/admin/admin-interface.php:20
+msgid "Theme Options"
+msgstr ""
+
+#: framework/admin/admin-interface.php:143
+msgid "SAVE ALL CHANGES"
+msgstr ""
+
+#: framework/admin/admin-interface.php:148
+msgid "RESET"
+msgstr ""
+
+#: framework/admin/admin-interface.php:1005
+msgid "Upload Image"
+msgstr ""
+
+#: framework/admin/admin-interface.php:1009
+#: framework/meta-box/inc/fields/file-input.php:42
+msgid "Remove"
+msgstr ""
+
+#: framework/admin/theme-settings.php:58
+msgid "Select a Tag"
+msgstr ""
+
+#: framework/admin/theme-settings.php:120
+msgid "Header"
+msgstr ""
+
+#: framework/admin/theme-settings.php:124
+#: framework/include/partners-post-type.php:46
+msgid "Logo"
+msgstr ""
+
+#: framework/admin/theme-settings.php:125
+msgid "Upload logo for your Website."
+msgstr ""
+
+#: framework/admin/theme-settings.php:130
+msgid "Favicon"
+msgstr ""
+
+#: framework/admin/theme-settings.php:131
+msgid ""
+"Upload a 16px by 16px PNG image that will represent your website favicon."
+msgstr ""
+
+#: framework/admin/theme-settings.php:136
+msgid "Do you want to show social icons in header ?"
+msgstr ""
+
+#: framework/admin/theme-settings.php:137
+#: framework/admin/theme-settings.php:373
+#: framework/admin/theme-settings.php:391
+#: framework/admin/theme-settings.php:425
+#: framework/admin/theme-settings.php:436
+#: framework/admin/theme-settings.php:452
+#: framework/admin/theme-settings.php:458
+#: framework/admin/theme-settings.php:464
+#: framework/admin/theme-settings.php:634
+#: framework/admin/theme-settings.php:646
+#: framework/admin/theme-settings.php:675
+#: framework/admin/theme-settings.php:699
+#: framework/admin/theme-settings.php:754
+#: framework/admin/theme-settings.php:785
+#: framework/admin/theme-settings.php:828
+#: framework/admin/theme-settings.php:839
+#: framework/admin/theme-settings.php:845
+#: framework/admin/theme-settings.php:874
+#: framework/admin/theme-settings.php:892
+#: framework/admin/theme-settings.php:1238
+msgid "Yes"
+msgstr ""
+
+#: framework/admin/theme-settings.php:142 property-details/property-map.php:71
+msgid "Twitter"
+msgstr ""
+
+#: framework/admin/theme-settings.php:143
+msgid "Provide Twitter URL to display its icon."
+msgstr ""
+
+#: framework/admin/theme-settings.php:148 property-details/property-map.php:70
+msgid "Facebook"
+msgstr ""
+
+#: framework/admin/theme-settings.php:149
+msgid "Provide Facebook URL to display its icon."
+msgstr ""
+
+#: framework/admin/theme-settings.php:154
+msgid "Google Plus"
+msgstr ""
+
+#: framework/admin/theme-settings.php:155
+msgid "Provide Google Plus URL to display its icon."
+msgstr ""
+
+#: framework/admin/theme-settings.php:160
+msgid "LinkedIn"
+msgstr ""
+
+#: framework/admin/theme-settings.php:161
+msgid "Provide LinkedIn URL to display its icon."
+msgstr ""
+
+#: framework/admin/theme-settings.php:166
+msgid "RSS"
+msgstr ""
+
+#: framework/admin/theme-settings.php:167
+msgid "Provide RSS URL to display its icon."
+msgstr ""
+
+#: framework/admin/theme-settings.php:172
+msgid "Instagram"
+msgstr ""
+
+#: framework/admin/theme-settings.php:173
+msgid "Provide Instagram URL to display its icon."
+msgstr ""
+
+#: framework/admin/theme-settings.php:178
+msgid "YouTube"
+msgstr ""
+
+#: framework/admin/theme-settings.php:179
+msgid "Provide YouTube URL to display its icon."
+msgstr ""
+
+#: framework/admin/theme-settings.php:184
+msgid "Skype"
+msgstr ""
+
+#: framework/admin/theme-settings.php:185
+msgid "Provide Skype username to display its icon."
+msgstr ""
+
+#: framework/admin/theme-settings.php:190
+msgid "Pinterest"
+msgstr ""
+
+#: framework/admin/theme-settings.php:191
+msgid "Provide Pinterest URL to display its icon."
+msgstr ""
+
+#: framework/admin/theme-settings.php:197
+msgid "Header Email"
+msgstr ""
+
+#: framework/admin/theme-settings.php:198
+msgid "Provide Email address to display in header."
+msgstr ""
+
+#: framework/admin/theme-settings.php:203
+msgid "Header Phone Number"
+msgstr ""
+
+#: framework/admin/theme-settings.php:204
+msgid "Provide phone number to display in header."
+msgstr ""
+
+#: framework/admin/theme-settings.php:209
+msgid "Tracking Code"
+msgstr ""
+
+#: framework/admin/theme-settings.php:210
+msgid "Paste Google Analytics (or other) tracking code here."
+msgstr ""
+
+#: framework/admin/theme-settings.php:215
+msgid "Banner Top"
+msgstr ""
+
+#: framework/admin/theme-settings.php:216
+msgid "Upload banner, size: 728x90 px"
+msgstr ""
+
+#: framework/admin/theme-settings.php:225
+msgid "Home Slider"
+msgstr ""
+
+#: framework/admin/theme-settings.php:229
+msgid "What you want to display in area below header on homepage ?"
+msgstr ""
+
+#: framework/admin/theme-settings.php:234
+msgid "Display Slider Based on Properties Custom Post Type"
+msgstr ""
+
+#: framework/admin/theme-settings.php:235
+msgid "Display Slider Based on Slides Custom Post Type"
+msgstr ""
+
+#: framework/admin/theme-settings.php:236
+#: framework/admin/theme-settings.php:595
+msgid "Display Google Map with Properties Markers"
+msgstr ""
+
+#: framework/admin/theme-settings.php:237
+#: framework/admin/theme-settings.php:265
+#: framework/admin/theme-settings.php:596
+msgid "Display Simple Image Based Banner"
+msgstr ""
+
+#: framework/admin/theme-settings.php:238
+msgid "Display Slider Based on Slider Revolution Plugin."
+msgstr ""
+
+#: framework/admin/theme-settings.php:241
+msgid "Number of slides to display in Slider Based on Properties"
+msgstr ""
+
+#: framework/admin/theme-settings.php:247
+msgid "Provide Revolution Slider Alias"
+msgstr ""
+
+#: framework/admin/theme-settings.php:248
+msgid "If you want to use Revolution Slider then provide its alias here."
+msgstr ""
+
+#: framework/admin/theme-settings.php:255
+msgid "Home Search"
+msgstr ""
+
+#: framework/admin/theme-settings.php:259
+msgid "What you want to display in area below header on search results page ?"
+msgstr ""
+
+#: framework/admin/theme-settings.php:264
+msgid "Display Google Map with Resulted Properties Markers"
+msgstr ""
+
+#: framework/admin/theme-settings.php:268
+msgid "Advance Search Form Title"
+msgstr ""
+
+#: framework/admin/theme-settings.php:269
+msgid "Provide Advance Search Form title."
+msgstr ""
+
+#: framework/admin/theme-settings.php:271
+msgid "Find your Home"
+msgstr ""
+
+#: framework/admin/theme-settings.php:274
+msgid "Search Page URL"
+msgstr ""
+
+#: framework/admin/theme-settings.php:275
+msgid ""
+"To Configure The Search Functionality. Create a Property Search Page Using "
+"Property Search Template and Provide its URL here.(Also, Make sure to "
+"Configure Permalinks)"
+msgstr ""
+
+#: framework/admin/theme-settings.php:280
+msgid "Select the search fields that you want to display in search form."
+msgstr ""
+
+#: framework/admin/theme-settings.php:287
+#: framework/meta-box/config-meta-boxes.php:184 functions.php:1553
+#: property-details/property-contents.php:10 template-parts/search-form.php:12
+#: template-submit-property.php:359 template-submit-property.php:360
+#: template-submit-property.php:666 template-submit-property.php:667
+msgid "Property ID"
+msgstr "Mã BĐS"
+
+#: framework/admin/theme-settings.php:288 template-parts/search-form.php:20
+msgid "Property Location"
+msgstr "Khu vực"
+
+#: framework/admin/theme-settings.php:289
+#: framework/include/property-post-type.php:137
+#: framework/include/property-post-type.php:138
+#: framework/include/property-post-type.php:151 functions.php:1554
+#: template-parts/search-form.php:32
+msgid "Property Status"
+msgstr "Nhu cầu"
+
+#: framework/admin/theme-settings.php:290
+#: framework/include/property-post-type.php:76
+#: framework/include/property-post-type.php:77
+#: template-parts/search-form.php:44
+msgid "Property Type"
+msgstr "Loại BĐS"
+
+#: framework/admin/theme-settings.php:291 template-parts/search-form.php:56
+msgid "Min Beds"
+msgstr "Phòng ngủ"
+
+#: framework/admin/theme-settings.php:292 template-parts/search-form.php:68
+msgid "Min Baths"
+msgstr "Phòng tắm"
+
+#: framework/admin/theme-settings.php:293
+msgid "Min and Max Price"
+msgstr "Giá tối thiểu và tối đa"
+
+#: framework/admin/theme-settings.php:294
+msgid "Min and Max Area"
+msgstr "Diện tích tối thiểu và tối đa"
+
+#: framework/admin/theme-settings.php:295
+#: framework/include/property-post-type.php:167
+#: framework/include/property-post-type.php:168
+#: framework/include/property-post-type.php:181
+#: template-parts/search-form.php:133
+msgid "Property Direction"
+msgstr "Hướng"
+
+#: framework/admin/theme-settings.php:296
+#: framework/include/property-post-type.php:197
+#: framework/include/property-post-type.php:198
+#: framework/include/property-post-type.php:211
+#: template-parts/search-form.php:145
+msgid "Property Project"
+msgstr "Dự án"
+
+#: framework/admin/theme-settings.php:299
+msgid "Measurement unit to display with Min and Max Area fields."
+msgstr ""
+
+#: framework/admin/theme-settings.php:300
+msgid "Example: Sq Ft"
+msgstr ""
+
+#: framework/admin/theme-settings.php:305
+msgid "Number of Properties to display on Property Search Template"
+msgstr ""
+
+#: framework/admin/theme-settings.php:314
+msgid "Home Others"
+msgstr ""
+
+#: framework/admin/theme-settings.php:318
+msgid "Slogan Title"
+msgstr ""
+
+#: framework/admin/theme-settings.php:319
+msgid "Slogan title  will appear on Homepage below slider."
+msgstr ""
+
+#: framework/admin/theme-settings.php:324
+msgid "Slogan Text"
+msgstr ""
+
+#: framework/admin/theme-settings.php:325
+msgid "Slogan text  will appear on Homepage below slider."
+msgstr ""
+
+#: framework/admin/theme-settings.php:331
+msgid "What Properties you want to display on Homepage ?"
+msgstr ""
+
+#: framework/admin/theme-settings.php:336
+msgid "Recent Properties"
+msgstr ""
+
+#: framework/admin/theme-settings.php:337
+msgid "Featured Properties"
+msgstr ""
+
+#: framework/admin/theme-settings.php:338
+msgid "Properties based on selected Types, Statuses and Cities."
+msgstr ""
+
+#: framework/admin/theme-settings.php:341
+msgid "Select Property Types"
+msgstr ""
+
+#: framework/admin/theme-settings.php:346
+msgid "Select Property Statuses"
+msgstr ""
+
+#: framework/admin/theme-settings.php:351
+msgid "Select Property Cities"
+msgstr ""
+
+#: framework/admin/theme-settings.php:356
+msgid "Sort Properties By ?"
+msgstr ""
+
+#: framework/admin/theme-settings.php:361
+msgid "Time - Recent First"
+msgstr ""
+
+#: framework/admin/theme-settings.php:362
+msgid "Price - Low to High"
+msgstr ""
+
+#: framework/admin/theme-settings.php:363
+msgid "Price - High to Low"
+msgstr ""
+
+#: framework/admin/theme-settings.php:366
+msgid "Number of Properties to display on Homepage"
+msgstr ""
+
+#: framework/admin/theme-settings.php:372
+msgid "Do you want to display Featured Properties on Homepage ?"
+msgstr ""
+
+#: framework/admin/theme-settings.php:378
+msgid "Featured Properties Title"
+msgstr ""
+
+#: framework/admin/theme-settings.php:379
+msgid "Provide Featured Properties Custom Title."
+msgstr ""
+
+#: framework/admin/theme-settings.php:384
+msgid "Featured Properties Text"
+msgstr ""
+
+#: framework/admin/theme-settings.php:385
+msgid "Provide Featured Properties Custom Text."
+msgstr ""
+
+#: framework/admin/theme-settings.php:390
+msgid ""
+"Do you want to exclude Featured Properties from Recent Properties on "
+"Homepage ?"
+msgstr ""
+
+#: framework/admin/theme-settings.php:398
+#: framework/include/property-post-type.php:8
+msgid "Property"
+msgstr ""
+
+#: framework/admin/theme-settings.php:402
+msgid "Select property detail page variation ?"
+msgstr ""
+
+#: framework/admin/theme-settings.php:404
+msgid ""
+"When agent information will be displayed in sidebar then widget ready sidbar "
+"will not be available."
+msgstr ""
+
+#: framework/admin/theme-settings.php:408
+msgid "Display agent information below Google Map"
+msgstr ""
+
+#: framework/admin/theme-settings.php:409
+msgid "Display agent information in sidebar"
+msgstr ""
+
+#: framework/admin/theme-settings.php:412
+#, php-format
+msgid "Do you want to display %s on property detail page ?"
+msgstr ""
+
+#: framework/admin/theme-settings.php:414
+msgid "Additional Details Title"
+msgstr ""
+
+#: framework/admin/theme-settings.php:416
+#: framework/meta-box/config-meta-boxes.php:269
+msgid "Additional Details"
+msgstr ""
+
+#: framework/admin/theme-settings.php:419
+msgid "Features Title"
+msgstr ""
+
+#: framework/admin/theme-settings.php:421 template-submit-property.php:376
+#: template-submit-property.php:683
+msgid "Features"
+msgstr "Tiện ích"
+
+#: framework/admin/theme-settings.php:424
+msgid "video"
+msgstr ""
+
+#: framework/admin/theme-settings.php:430
+msgid "Property Video Title"
+msgstr ""
+
+#: framework/admin/theme-settings.php:432
+msgid "Property Video"
+msgstr ""
+
+#: framework/admin/theme-settings.php:435
+msgid "google map"
+msgstr ""
+
+#: framework/admin/theme-settings.php:441
+msgid "Google Map Title"
+msgstr ""
+
+#: framework/admin/theme-settings.php:443
+msgid "Property Map"
+msgstr ""
+
+#: framework/admin/theme-settings.php:446
+msgid "Child Properties Title"
+msgstr ""
+
+#: framework/admin/theme-settings.php:448
+msgid "Sub Properties"
+msgstr ""
+
+#: framework/admin/theme-settings.php:451
+msgid "social share icons"
+msgstr ""
+
+#: framework/admin/theme-settings.php:457
+msgid "agent information"
+msgstr "thông tin chuyên viên"
+
+#: framework/admin/theme-settings.php:463
+msgid "similar properties"
+msgstr ""
+
+#: framework/admin/theme-settings.php:469
+msgid "Similar Properties Title"
+msgstr ""
+
+#: framework/admin/theme-settings.php:471
+msgid "Similar Properties"
+msgstr ""
+
+#: framework/admin/theme-settings.php:479
+#: framework/admin/theme-settings.php:496
+#: framework/meta-box/config-meta-boxes.php:414
+msgid "Banner Title"
+msgstr ""
+
+#: framework/admin/theme-settings.php:480
+msgid "Provide the Banner Title for News Page."
+msgstr ""
+
+#: framework/admin/theme-settings.php:485
+#: framework/admin/theme-settings.php:502
+#: framework/meta-box/config-meta-boxes.php:420
+msgid "Banner Sub Title"
+msgstr ""
+
+#: framework/admin/theme-settings.php:486
+msgid "Provide the Banner Sub Title for News Page."
+msgstr ""
+
+#: framework/admin/theme-settings.php:493
+msgid "Gallery"
+msgstr ""
+
+#: framework/admin/theme-settings.php:497
+msgid "Provide the Banner Title for Gallery Pages."
+msgstr ""
+
+#: framework/admin/theme-settings.php:499
+msgid "Properties Gallery"
+msgstr ""
+
+#: framework/admin/theme-settings.php:503
+msgid "Provide the Banner Sub Title for Gallery Pages."
+msgstr ""
+
+#: framework/admin/theme-settings.php:505
+msgid "Look for your desired property more efficiently"
+msgstr ""
+
+#: framework/admin/theme-settings.php:510
+msgid "Price Format"
+msgstr ""
+
+#: framework/admin/theme-settings.php:515
+msgid "Currency Sign"
+msgstr ""
+
+#: framework/admin/theme-settings.php:516
+msgid "Provide currency sign. For Example: $"
+msgstr ""
+
+#: framework/admin/theme-settings.php:521
+msgid "Position of Currency Sign in Price"
+msgstr ""
+
+#: framework/admin/theme-settings.php:526
+msgid "Display currency sign before the numbers"
+msgstr ""
+
+#: framework/admin/theme-settings.php:527
+msgid "Display currency sign after the numbers"
+msgstr ""
+
+#: framework/admin/theme-settings.php:530
+msgid "Number of Decimals Points"
+msgstr ""
+
+#: framework/admin/theme-settings.php:531
+msgid "Provide the number of decimals points"
+msgstr ""
+
+#: framework/admin/theme-settings.php:536
+msgid "Decimal Point Separator"
+msgstr ""
+
+#: framework/admin/theme-settings.php:537
+msgid "Provide the decimal point separator. For Example: ."
+msgstr ""
+
+#: framework/admin/theme-settings.php:542
+msgid "Thousands Separator"
+msgstr ""
+
+#: framework/admin/theme-settings.php:543
+msgid "Provide the thousands separator. For Example: ,"
+msgstr ""
+
+#: framework/admin/theme-settings.php:548
+msgid "Minimum Prices List for Advance Search Form."
+msgstr ""
+
+#: framework/admin/theme-settings.php:549
+#: framework/admin/theme-settings.php:555
+#: framework/admin/theme-settings.php:573
+#: framework/admin/theme-settings.php:579
+msgid ""
+"Only provide comma separated numbers. Do not add decimal points, dashes, "
+"spaces and currency signs."
+msgstr ""
+
+#: framework/admin/theme-settings.php:554
+msgid "Maximum Prices List for Advance Search Form."
+msgstr ""
+
+#: framework/admin/theme-settings.php:560
+msgid "Rent Prices"
+msgstr ""
+
+#: framework/admin/theme-settings.php:565
+msgid "Select the Appropriate Rent Status"
+msgstr ""
+
+#: framework/admin/theme-settings.php:567
+msgid "The rent prices will be displayed based on selected status."
+msgstr ""
+
+#: framework/admin/theme-settings.php:572
+msgid "Minimum Prices List for Rent Only."
+msgstr ""
+
+#: framework/admin/theme-settings.php:578
+msgid "Maximum Prices List for Rent Only."
+msgstr ""
+
+#: framework/admin/theme-settings.php:586
+msgid "General"
+msgstr ""
+
+#: framework/admin/theme-settings.php:590
+msgid ""
+"What you want to display in area below header on Listing & Taxonomy pages ?"
+msgstr ""
+
+#: framework/admin/theme-settings.php:599
+msgid "Number of Properties to display on Property Listing Template"
+msgstr ""
+
+#: framework/admin/theme-settings.php:606
+msgid "Number of Posts to display on Agent Listing Template"
+msgstr ""
+
+#: framework/admin/theme-settings.php:613
+msgid "Lightbox Plugin"
+msgstr ""
+
+#: framework/admin/theme-settings.php:614
+msgid "Select the lightbox plugin that you want to use"
+msgstr ""
+
+#: framework/admin/theme-settings.php:619
+msgid "Swipebox Plugin"
+msgstr ""
+
+#: framework/admin/theme-settings.php:620
+msgid "Pretty Photo Plugin"
+msgstr ""
+
+#: framework/admin/theme-settings.php:623
+msgid "Default Listing Layout"
+msgstr ""
+
+#: framework/admin/theme-settings.php:624
+msgid "Select the default listing layout."
+msgstr ""
+
+#: framework/admin/theme-settings.php:629
+msgid "List Layout"
+msgstr ""
+
+#: framework/admin/theme-settings.php:630
+msgid "Grid Layout"
+msgstr ""
+
+#: framework/admin/theme-settings.php:633
+msgid "Do you want to receive the copy of message sent to agent ?"
+msgstr ""
+
+#: framework/admin/theme-settings.php:639
+msgid "Email address to receive message copy"
+msgstr ""
+
+#: framework/admin/theme-settings.php:640
+msgid ""
+"This email address will receive a copy of message sent to agent from "
+"property detail page."
+msgstr ""
+
+#: framework/admin/theme-settings.php:645
+msgid "Do you want to display reCAPTCHA in contact forms ?"
+msgstr ""
+
+#: framework/admin/theme-settings.php:651
+msgid "reCAPTCHA Public Key"
+msgstr ""
+
+#: framework/admin/theme-settings.php:652
+msgid ""
+"Get reCAPTCHA public and private keys for your website by <a href=\"https://"
+"www.google.com/recaptcha/admin#whyrecaptcha\" target=\"_blank\">signing up "
+"here</a> "
+msgstr ""
+
+#: framework/admin/theme-settings.php:657
+msgid "reCAPTCHA Private Key"
+msgstr ""
+
+#: framework/admin/theme-settings.php:662
+msgid "Do you want to display WPML language switcher in top header ?"
+msgstr ""
+
+#: framework/admin/theme-settings.php:663
+msgid "Yes - ( WPML Plugin Required )"
+msgstr ""
+
+#: framework/admin/theme-settings.php:670
+#: property-details/property-agent.php:95
+msgid "Contact"
+msgstr "Liên hệ"
+
+#: framework/admin/theme-settings.php:674
+msgid "Do you want to show Google Map on contact page ?"
+msgstr ""
+
+#: framework/admin/theme-settings.php:680
+msgid "Google Map Latitude"
+msgstr ""
+
+#: framework/admin/theme-settings.php:681
+msgid "Provide Google Map Latitude"
+msgstr ""
+
+#: framework/admin/theme-settings.php:686
+msgid "Google Map Longitude"
+msgstr ""
+
+#: framework/admin/theme-settings.php:687
+msgid "Provide Google Map Longitude"
+msgstr ""
+
+#: framework/admin/theme-settings.php:692
+msgid "Google Map Zoom"
+msgstr ""
+
+#: framework/admin/theme-settings.php:693
+msgid "Provide Google Map Zoom Level. Example: 17"
+msgstr ""
+
+#: framework/admin/theme-settings.php:698
+msgid "Do you want to show Contact Details Section on contact page ?"
+msgstr ""
+
+#: framework/admin/theme-settings.php:704
+msgid "Contact Details Section Title"
+msgstr ""
+
+#: framework/admin/theme-settings.php:705
+msgid "Provide Title for contact details section."
+msgstr ""
+
+#: framework/admin/theme-settings.php:710
+msgid "Contact Address"
+msgstr ""
+
+#: framework/admin/theme-settings.php:711
+msgid "Provide address that will be displayed in contact details section."
+msgstr ""
+
+#: framework/admin/theme-settings.php:716
+msgid "Cell Number"
+msgstr ""
+
+#: framework/admin/theme-settings.php:717
+msgid "Provide Cell Number that will be displayed in contact details section."
+msgstr ""
+
+#: framework/admin/theme-settings.php:722
+msgid "Phone Number"
+msgstr ""
+
+#: framework/admin/theme-settings.php:723
+msgid "Provide Phone Number that will be displayed in contact details section."
+msgstr ""
+
+#: framework/admin/theme-settings.php:728
+#: framework/meta-box/config-meta-boxes.php:343
+msgid "Email Address"
+msgstr ""
+
+#: framework/admin/theme-settings.php:729
+msgid ""
+"Provide Email Address that will be displayed in contact details section."
+msgstr ""
+
+#: framework/admin/theme-settings.php:734
+msgid "Contact Form Heading"
+msgstr ""
+
+#: framework/admin/theme-settings.php:735
+msgid "Provide heading for contact form."
+msgstr ""
+
+#: framework/admin/theme-settings.php:737
+msgid "Send us a message"
+msgstr "Gửi tin nhắn"
+
+#: framework/admin/theme-settings.php:740
+msgid "Contact Email"
+msgstr ""
+
+#: framework/admin/theme-settings.php:741
+msgid ""
+"Provide target email address that will receive messages from contact form."
+msgstr ""
+
+#: framework/admin/theme-settings.php:749
+msgid "Footer"
+msgstr ""
+
+#: framework/admin/theme-settings.php:753
+msgid "Do you want to show Partners Carousel above footer ?"
+msgstr ""
+
+#: framework/admin/theme-settings.php:759
+msgid "Partners Carousel Title ?"
+msgstr ""
+
+#: framework/admin/theme-settings.php:760
+msgid "Provide partners carousel title text."
+msgstr ""
+
+#: framework/admin/theme-settings.php:765
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: framework/admin/theme-settings.php:766
+msgid "Enter Footer Copyright Text here."
+msgstr ""
+
+#: framework/admin/theme-settings.php:771
+msgid "Footer Designed by Text"
+msgstr ""
+
+#: framework/admin/theme-settings.php:772
+msgid "Enter Footer Designed by Text here."
+msgstr ""
+
+#: framework/admin/theme-settings.php:780
+msgid "Members"
+msgstr ""
+
+#: framework/admin/theme-settings.php:784
+msgid "Do you want to enable header navigation for user Login and Register ?"
+msgstr ""
+
+#: framework/admin/theme-settings.php:790
+msgid "Login & Register Page URL"
+msgstr ""
+
+#: framework/admin/theme-settings.php:791
+msgid "Create a Page Using Login & Register Template and Provide its URL here."
+msgstr ""
+
+#: framework/admin/theme-settings.php:796
+msgid "Submit Property Page URL"
+msgstr ""
+
+#: framework/admin/theme-settings.php:797
+msgid "Create a Page Using Submit Property Template and Provide its URL here."
+msgstr ""
+
+#: framework/admin/theme-settings.php:802
+msgid "Message After Successful Submit ?"
+msgstr ""
+
+#: framework/admin/theme-settings.php:805
+msgid "Thanks for Submitting Property!"
+msgstr ""
+
+#: framework/admin/theme-settings.php:808
+msgid "Submit Notice Email"
+msgstr ""
+
+#: framework/admin/theme-settings.php:809
+msgid ""
+"This email address will receive a message when any user submits a property."
+msgstr ""
+
+#: framework/admin/theme-settings.php:814
+msgid "My Properties Page URL"
+msgstr ""
+
+#: framework/admin/theme-settings.php:815
+msgid "Create a Page Using My Properties Template and Provide its URL here."
+msgstr ""
+
+#: framework/admin/theme-settings.php:823
+msgid "Payments"
+msgstr ""
+
+#: framework/admin/theme-settings.php:827
+msgid "Do you want to enable PayPal payments for submitted property ?"
+msgstr ""
+
+#: framework/admin/theme-settings.php:833
+msgid "PayPal merchant account ID or Email ?"
+msgstr ""
+
+#: framework/admin/theme-settings.php:838
+msgid "Do you want to enable PayPal Sandbox for Testing ?"
+msgstr ""
+
+#: framework/admin/theme-settings.php:844
+msgid "Do you want to disable SSL secure connection for post back ?"
+msgstr ""
+
+#: framework/admin/theme-settings.php:850
+msgid "Email address to receive verified IPN Reports ?"
+msgstr ""
+
+#: framework/admin/theme-settings.php:851
+msgid ""
+"IPN(Instant Payment Notification) report will contain details about payment "
+"transaction."
+msgstr ""
+
+#: framework/admin/theme-settings.php:856
+msgid "Email address to receive invalid IPN Reports ?"
+msgstr ""
+
+#: framework/admin/theme-settings.php:861
+msgid "Payment amount per property ?"
+msgstr ""
+
+#: framework/admin/theme-settings.php:862
+msgid ""
+"Provide the amount that you want to charge for one property. Example: 20.00"
+msgstr ""
+
+#: framework/admin/theme-settings.php:867
+msgid "Currency Code ?"
+msgstr ""
+
+#: framework/admin/theme-settings.php:868
+msgid "Provide the currency code that you want to use. Example: USD"
+msgstr ""
+
+#: framework/admin/theme-settings.php:873
+msgid "Automatically publish the submitted property on payment ?"
+msgstr ""
+
+#: framework/admin/theme-settings.php:882
+msgid "Styling"
+msgstr ""
+
+#: framework/admin/theme-settings.php:886
+msgid "Body Background"
+msgstr ""
+
+#: framework/admin/theme-settings.php:891
+msgid "Do you want to disable responsive styles ?"
+msgstr ""
+
+#: framework/admin/theme-settings.php:897
+msgid "Quick CSS"
+msgstr ""
+
+#: framework/admin/theme-settings.php:898
+msgid ""
+"Just want to do some quick CSS changes? Enter them here, they will be "
+"applied to the theme. If you need to change major portions of the theme "
+"please use the custom.css file in css folder. In case you are using child "
+"theme, then please use child-custom.css file in child theme."
+msgstr ""
+
+#: framework/admin/theme-settings.php:906
+msgid "Header - Styles"
+msgstr ""
+
+#: framework/admin/theme-settings.php:910
+msgid "Header Background Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:911
+msgid "Choose a background color for Header. Base theme color is #252A2B."
+msgstr ""
+
+#: framework/admin/theme-settings.php:916
+msgid "Logo Text Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:917
+msgid "Choose a color for logo text. Base theme color is #ffffff."
+msgstr ""
+
+#: framework/admin/theme-settings.php:922
+msgid "Logo Text Hover Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:923
+msgid "Choose a color for logo text hover. Base theme color is #4dc7ec."
+msgstr ""
+
+#: framework/admin/theme-settings.php:928
+msgid "Tagline Text Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:929
+msgid "Choose a color for tagline text. Base theme color is #8b9293."
+msgstr ""
+
+#: framework/admin/theme-settings.php:934
+msgid "Tagline Background Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:935
+msgid "Choose a background color for tagline. Base theme color is #343a3b."
+msgstr ""
+
+#: framework/admin/theme-settings.php:940
+msgid "Header Text Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:941
+msgid "Choose a a color for header text. Base theme color is #929A9B."
+msgstr ""
+
+#: framework/admin/theme-settings.php:946
+msgid "Header Links Hover Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:947
+msgid "Choose a color for header links. Base theme color is #b0b8b9."
+msgstr ""
+
+#: framework/admin/theme-settings.php:952
+msgid "Header Borders Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:953
+msgid "Choose a color for header borders. Base theme color is #343A3B."
+msgstr ""
+
+#: framework/admin/theme-settings.php:958
+msgid "Main Menu Text Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:959
+msgid "Choose a color for main menu text. Base theme color is #afb4b5."
+msgstr ""
+
+#: framework/admin/theme-settings.php:964
+msgid "Drop Down Menu Background Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:965
+msgid ""
+"Choose a background color for drop down menu. Base theme color is #ec894d."
+msgstr ""
+
+#: framework/admin/theme-settings.php:970
+msgid "Drop Down Menu Text Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:971
+msgid "Choose a color for drop down menu text. Base theme color is #ffffff."
+msgstr ""
+
+#: framework/admin/theme-settings.php:976
+msgid "Drop Down Menu Background Color on Mouse Over"
+msgstr ""
+
+#: framework/admin/theme-settings.php:977
+msgid ""
+"Choose a background color for drop down menu on mouse over. Base theme color "
+"is #dc7d44."
+msgstr ""
+
+#: framework/admin/theme-settings.php:982
+msgid "Header Phone Number Background Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:983
+msgid ""
+"Choose a background color for header phone number. Base theme color is "
+"#4dc7ec."
+msgstr ""
+
+#: framework/admin/theme-settings.php:988
+msgid "Header Phone Number Text Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:989
+msgid ""
+"Choose a color for header phone number text. Base theme color is #e7eff7."
+msgstr ""
+
+#: framework/admin/theme-settings.php:994
+msgid "Header Phone Icon Background Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:995
+msgid ""
+"Choose a background color for header phone icon. Base theme color is #37b3d9."
+msgstr ""
+
+#: framework/admin/theme-settings.php:1000
+msgid "Header Banner Image"
+msgstr ""
+
+#: framework/admin/theme-settings.php:1001
+msgid ""
+"Upload a banner image that has minimum height of 230px height and minimum "
+"width of 2000px."
+msgstr ""
+
+#: framework/admin/theme-settings.php:1006
+msgid "Banner Title Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:1007
+msgid "Choose a color for banner title. Base theme color is #394041."
+msgstr ""
+
+#: framework/admin/theme-settings.php:1012
+msgid "Banner Title Background Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:1013
+msgid ""
+"Choose a background color for banner title. Base theme color is #f5f4f3."
+msgstr ""
+
+#: framework/admin/theme-settings.php:1018
+msgid "Banner Sub Title Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:1019
+msgid "Choose a color for banner sub title. Base theme color is #ffffff."
+msgstr ""
+
+#: framework/admin/theme-settings.php:1024
+msgid "Banner Sub Title Background Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:1025
+msgid ""
+"Choose a background color for banner sub title. Base theme color is #37B3D9."
+msgstr ""
+
+#: framework/admin/theme-settings.php:1033
+msgid "Home - Styles"
+msgstr ""
+
+#: framework/admin/theme-settings.php:1037
+msgid "Slider Styles"
+msgstr ""
+
+#: framework/admin/theme-settings.php:1042
+msgid "Slide Title Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:1043
+msgid "Choose a color for slide title. Base theme color is #394041."
+msgstr ""
+
+#: framework/admin/theme-settings.php:1048
+msgid "Slide Title Hover Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:1049
+msgid "Choose a color for slide title hover. Base theme color is #df5400."
+msgstr ""
+
+#: framework/admin/theme-settings.php:1054
+msgid "Slide Description Text Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:1055
+msgid ""
+"Choose a color for description text in slide. Base theme color is #8b9293."
+msgstr ""
+
+#: framework/admin/theme-settings.php:1060
+msgid "Slide Price Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:1061
+msgid "Choose a color for price text in slide. Base theme color is #df5400."
+msgstr ""
+
+#: framework/admin/theme-settings.php:1066
+msgid "Slide Know More Button Text Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:1067
+msgid ""
+"Choose a color for know more button text in slide. Base theme color is "
+"#ffffff."
+msgstr ""
+
+#: framework/admin/theme-settings.php:1072
+msgid "Slide Know More Button Background Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:1073
+msgid ""
+"Choose a background color for know more button in slide. Base theme color is "
+"#37b3d9."
+msgstr ""
+
+#: framework/admin/theme-settings.php:1078
+msgid "Slide Know More Button Hover Background Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:1079
+msgid ""
+"Choose a background color for know more button hover in slide. Base theme "
+"color is #2aa6cc."
+msgstr ""
+
+#: framework/admin/theme-settings.php:1087
+msgid "Property Item - Styles"
+msgstr ""
+
+#: framework/admin/theme-settings.php:1091
+msgid "Property Item Background Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:1092
+msgid ""
+"Choose a background color for property item. Base theme color is #ffffff."
+msgstr ""
+
+#: framework/admin/theme-settings.php:1097
+msgid "Property Item Border Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:1098
+msgid "Choose a color for property item border. Base theme color is #dedede."
+msgstr ""
+
+#: framework/admin/theme-settings.php:1103
+msgid "Property Title Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:1104
+msgid "Choose a color for property title. Base theme color is #394041."
+msgstr ""
+
+#: framework/admin/theme-settings.php:1109
+msgid "Property Title Hover Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:1110
+msgid "Choose a color for proeprty title hover. Base theme color is #df5400."
+msgstr ""
+
+#: framework/admin/theme-settings.php:1115
+msgid "Property Price Text Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:1116
+msgid "Choose a color for property price text. Base theme color is #ffffff."
+msgstr ""
+
+#: framework/admin/theme-settings.php:1121
+msgid "Property Price Background Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:1122
+msgid ""
+"Choose a background color for property price. Base theme color is #4dc7ec."
+msgstr ""
+
+#: framework/admin/theme-settings.php:1127
+msgid "Property Status Text Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:1128
+msgid "Choose a color for property status text. Base theme color is #ffffff."
+msgstr ""
+
+#: framework/admin/theme-settings.php:1133
+msgid "Property Status Background Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:1134
+msgid ""
+"Choose a background color for property status. Base theme color is #ec894d."
+msgstr ""
+
+#: framework/admin/theme-settings.php:1139
+msgid "Property Description Text Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:1140
+msgid ""
+"Choose a color for property item description text. Base theme color is "
+"#8b9293."
+msgstr ""
+
+#: framework/admin/theme-settings.php:1145
+msgid "More Details Text Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:1146
+msgid "Choose a color for more details text. Base theme color is #394041."
+msgstr ""
+
+#: framework/admin/theme-settings.php:1151
+msgid "More Details Text Hover Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:1152
+msgid "Choose a color for more details text. Base theme color is #df5400."
+msgstr ""
+
+#: framework/admin/theme-settings.php:1157
+msgid "Property Meta Text Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:1158
+msgid "Choose a color for property meta. Base theme color is #394041."
+msgstr ""
+
+#: framework/admin/theme-settings.php:1163
+msgid "Property Meta Background Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:1164
+msgid ""
+"Choose a background color for property meta. Base theme color is #f5f5f5."
+msgstr ""
+
+#: framework/admin/theme-settings.php:1172
+msgid "General - Styles"
+msgstr ""
+
+#: framework/admin/theme-settings.php:1176
+msgid "Button Text Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:1177
+msgid "Choose a color for button text. Base theme color is #ffffff."
+msgstr ""
+
+#: framework/admin/theme-settings.php:1182
+msgid "Button Background Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:1183
+msgid "Choose a background color for button. Base theme color is #ec894d."
+msgstr ""
+
+#: framework/admin/theme-settings.php:1188
+msgid "Button Hover Text Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:1189
+msgid "Choose a color for button hover text. Base theme color is #ffffff."
+msgstr ""
+
+#: framework/admin/theme-settings.php:1194
+msgid "Button Hover Background Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:1195
+msgid ""
+"Choose a background color for button hover. Base theme color is #e3712c."
+msgstr ""
+
+#: framework/admin/theme-settings.php:1203
+msgid "Footer - Styles"
+msgstr ""
+
+#: framework/admin/theme-settings.php:1207
+msgid "Footer Widget Title Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:1208
+msgid "Choose a color for widget title. Base theme color is #394041."
+msgstr ""
+
+#: framework/admin/theme-settings.php:1213
+msgid "Footer Text Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:1214
+msgid "Choose a color for footer text. Base theme color is #8b9293."
+msgstr ""
+
+#: framework/admin/theme-settings.php:1219
+msgid "Footer Link Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:1220
+msgid "Choose a color for widget links. Base theme color is #75797A."
+msgstr ""
+
+#: framework/admin/theme-settings.php:1225
+msgid "Footer Link Hover Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:1226
+msgid "Choose a color for widget link hover. Base theme color is #dc7d44."
+msgstr ""
+
+#: framework/admin/theme-settings.php:1231
+msgid "Footer Border Color"
+msgstr ""
+
+#: framework/admin/theme-settings.php:1232
+msgid "Choose a color for footer border. Base theme color is #dedede."
+msgstr ""
+
+#: framework/admin/theme-settings.php:1237
+msgid "Do you want to disable footer background image ?"
+msgstr ""
+
+#: framework/admin/theme-settings.php:1243
+msgid "Footer Background Image"
+msgstr ""
+
+#: framework/admin/theme-settings.php:1244
+msgid "Note: Default background image is 235px in height and 1770px in width."
+msgstr ""
+
+#: framework/functions/contact_form_handler.php:31
+#: framework/functions/contact_form_handler.php:103
+msgid "The reCAPTCHA was not entered correctly. Please try it again."
+msgstr ""
+
+#: framework/functions/contact_form_handler.php:46
+#: framework/functions/contact_form_handler.php:119
+msgid "You Have Received a Message From "
+msgstr ""
+
+#: framework/functions/contact_form_handler.php:52
+#: framework/functions/contact_form_handler.php:121
+msgid "You have Received a message from: "
+msgstr ""
+
+#: framework/functions/contact_form_handler.php:55
+#: framework/functions/contact_form_handler.php:130
+msgid "Their additional message is as follows."
+msgstr ""
+
+#: framework/functions/contact_form_handler.php:60
+#: framework/functions/contact_form_handler.php:135
+msgid "You can contact"
+msgstr ""
+
+#: framework/functions/contact_form_handler.php:60
+#: framework/functions/contact_form_handler.php:135
+msgid "via email,"
+msgstr ""
+
+#: framework/functions/contact_form_handler.php:66
+#: framework/functions/contact_form_handler.php:153
+msgid "Message Sent Successfully!"
+msgstr "Thư gửi thành công!"
+
+#: framework/functions/contact_form_handler.php:70
+#: framework/functions/contact_form_handler.php:156
+msgid "Server Error: WordPress mail method failed!"
+msgstr ""
+
+#: framework/functions/contact_form_handler.php:74
+#: framework/functions/contact_form_handler.php:160
+msgid "Invalid Request !"
+msgstr ""
+
+#: framework/functions/contact_form_handler.php:124
+msgid "Message is sent using agent contact form on following property:"
+msgstr ""
+
+#: framework/functions/contact_form_handler.php:127
+msgid "You can view the property using following URL:"
+msgstr ""
+
+#: framework/functions/theme_comment.php:17
+msgid "Pingback:"
+msgstr ""
+
+#: framework/functions/theme_comment.php:17
+msgid "(Edit)"
+msgstr ""
+
+#: framework/functions/theme_comment.php:35
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: framework/functions/theme_comment.php:38
+msgid "on"
+msgstr ""
+
+#: framework/functions/theme_comment.php:41
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: framework/functions/theme_comment.php:44
+msgid "said"
+msgstr ""
+
+#: framework/include/agent-post-type.php:6
+msgid "Agents"
+msgstr "Chuyên viên"
+
+#: framework/include/agent-post-type.php:7
+#: framework/meta-box/config-meta-boxes.php:257
+#: property-details/property-agent-for-sidebar.php:36
+#: property-details/property-agent.php:37
+msgid "Agent"
+msgstr "Chuyên viên"
+
+#: framework/include/agent-post-type.php:8
+#: framework/include/partners-post-type.php:9
+#: framework/include/property-post-type.php:9
+#: framework/include/slide-post-type.php:9
+msgid "Add New"
+msgstr "Thêm mới"
+
+#: framework/include/agent-post-type.php:9
+msgid "Add New Agent"
+msgstr ""
+
+#: framework/include/agent-post-type.php:10
+msgid "Edit Agent"
+msgstr ""
+
+#: framework/include/agent-post-type.php:11
+msgid "New Agent"
+msgstr ""
+
+#: framework/include/agent-post-type.php:12
+msgid "View Agent"
+msgstr ""
+
+#: framework/include/agent-post-type.php:13
+msgid "Search Agent"
+msgstr ""
+
+#: framework/include/agent-post-type.php:14
+msgid "No Agent found"
+msgstr ""
+
+#: framework/include/agent-post-type.php:15
+msgid "No Agent found in Trash"
+msgstr ""
+
+#: framework/include/agent-post-type.php:30
+msgid "agent"
+msgstr ""
+
+#: framework/include/partners-post-type.php:7
+msgid "Partners"
+msgstr "Đối tác"
+
+#: framework/include/partners-post-type.php:8
+#: framework/include/partners-post-type.php:45
+msgid "Partner"
+msgstr "Đối tác"
+
+#: framework/include/partners-post-type.php:10
+msgid "Add New Partner"
+msgstr ""
+
+#: framework/include/partners-post-type.php:11
+msgid "Edit Partner"
+msgstr ""
+
+#: framework/include/partners-post-type.php:12
+msgid "New Partner"
+msgstr ""
+
+#: framework/include/partners-post-type.php:13
+msgid "View Partner"
+msgstr ""
+
+#: framework/include/partners-post-type.php:14
+msgid "Search Partner"
+msgstr ""
+
+#: framework/include/partners-post-type.php:15
+msgid "No Partner found"
+msgstr ""
+
+#: framework/include/partners-post-type.php:16
+msgid "No Partner found in Trash"
+msgstr ""
+
+#: framework/include/partners-post-type.php:31
+msgid "partners"
+msgstr ""
+
+#: framework/include/partners-post-type.php:47
+#: framework/include/property-post-type.php:250
+msgid "Publish Time"
+msgstr ""
+
+#: framework/include/partners-post-type.php:64
+msgid "No logo provided"
+msgstr ""
+
+#: framework/include/property-post-type.php:7
+msgid "Properties"
+msgstr "Bất động sản"
+
+#: framework/include/property-post-type.php:10
+msgid "Add New Property"
+msgstr ""
+
+#: framework/include/property-post-type.php:11 functions.php:1604
+msgid "Edit Property"
+msgstr ""
+
+#: framework/include/property-post-type.php:12
+msgid "New Property"
+msgstr ""
+
+#: framework/include/property-post-type.php:13
+msgid "View Property"
+msgstr ""
+
+#: framework/include/property-post-type.php:14
+msgid "Search Property"
+msgstr ""
+
+#: framework/include/property-post-type.php:15
+msgid "No Property found"
+msgstr ""
+
+#: framework/include/property-post-type.php:16
+msgid "No Property found in Trash"
+msgstr ""
+
+#: framework/include/property-post-type.php:31
+msgid "property"
+msgstr ""
+
+#: framework/include/property-post-type.php:45
+#: framework/include/property-post-type.php:46
+#: framework/include/property-post-type.php:59
+msgid "Property Features"
+msgstr "Tiện ích"
+
+#: framework/include/property-post-type.php:47
+msgid "Search Property Features"
+msgstr ""
+
+#: framework/include/property-post-type.php:48
+msgid "Popular Property Features"
+msgstr ""
+
+#: framework/include/property-post-type.php:49
+msgid "All Property Features"
+msgstr ""
+
+#: framework/include/property-post-type.php:50
+msgid "Parent Property Feature"
+msgstr ""
+
+#: framework/include/property-post-type.php:51
+msgid "Parent Property Feature:"
+msgstr ""
+
+#: framework/include/property-post-type.php:52
+msgid "Edit Property Feature"
+msgstr ""
+
+#: framework/include/property-post-type.php:53
+msgid "Update Property Feature"
+msgstr ""
+
+#: framework/include/property-post-type.php:54
+msgid "Add New Property Feature"
+msgstr ""
+
+#: framework/include/property-post-type.php:55
+msgid "New Property Feature Name"
+msgstr ""
+
+#: framework/include/property-post-type.php:56
+msgid "Separate Property Features with commas"
+msgstr ""
+
+#: framework/include/property-post-type.php:57
+msgid "Add or remove Property Features"
+msgstr ""
+
+#: framework/include/property-post-type.php:58
+msgid "Choose from the most used Property Features"
+msgstr ""
+
+#: framework/include/property-post-type.php:70
+msgid "property-feature"
+msgstr ""
+
+#: framework/include/property-post-type.php:78
+msgid "Search Property Types"
+msgstr ""
+
+#: framework/include/property-post-type.php:79
+msgid "Popular Property Types"
+msgstr ""
+
+#: framework/include/property-post-type.php:80
+msgid "All Property Types"
+msgstr ""
+
+#: framework/include/property-post-type.php:81
+msgid "Parent Property Type"
+msgstr ""
+
+#: framework/include/property-post-type.php:82
+msgid "Parent Property Type:"
+msgstr ""
+
+#: framework/include/property-post-type.php:83
+msgid "Edit Property Type"
+msgstr ""
+
+#: framework/include/property-post-type.php:84
+msgid "Update Property Type"
+msgstr ""
+
+#: framework/include/property-post-type.php:85
+msgid "Add New Property Type"
+msgstr ""
+
+#: framework/include/property-post-type.php:86
+msgid "New Property Type Name"
+msgstr ""
+
+#: framework/include/property-post-type.php:87
+msgid "Separate Property Types with commas"
+msgstr ""
+
+#: framework/include/property-post-type.php:88
+msgid "Add or remove Property Types"
+msgstr ""
+
+#: framework/include/property-post-type.php:89
+msgid "Choose from the most used Property Types"
+msgstr ""
+
+#: framework/include/property-post-type.php:90
+#: widgets/property-types-widget.php:35
+msgid "Property Types"
+msgstr "Kiểu BĐS"
+
+#: framework/include/property-post-type.php:101
+msgid "property-type"
+msgstr ""
+
+#: framework/include/property-post-type.php:106
+#: framework/include/property-post-type.php:107
+msgid "Property City"
+msgstr ""
+
+#: framework/include/property-post-type.php:108
+msgid "Search Property Cities"
+msgstr ""
+
+#: framework/include/property-post-type.php:109
+msgid "Popular Property Cities"
+msgstr ""
+
+#: framework/include/property-post-type.php:110
+msgid "All Property Cities"
+msgstr ""
+
+#: framework/include/property-post-type.php:111
+msgid "Parent Property City"
+msgstr ""
+
+#: framework/include/property-post-type.php:112
+msgid "Parent Property City:"
+msgstr ""
+
+#: framework/include/property-post-type.php:113
+msgid "Edit Property City"
+msgstr ""
+
+#: framework/include/property-post-type.php:114
+msgid "Update Property City"
+msgstr ""
+
+#: framework/include/property-post-type.php:115
+msgid "Add New Property City"
+msgstr ""
+
+#: framework/include/property-post-type.php:116
+msgid "New Property City Name"
+msgstr ""
+
+#: framework/include/property-post-type.php:117
+msgid "Separate Property Cities with commas"
+msgstr ""
+
+#: framework/include/property-post-type.php:118
+msgid "Add or remove Property Cities"
+msgstr ""
+
+#: framework/include/property-post-type.php:119
+msgid "Choose from the most used Property Cities"
+msgstr ""
+
+#: framework/include/property-post-type.php:120
+msgid "Property Cities"
+msgstr "Tỉnh/Thành phố"
+
+#: framework/include/property-post-type.php:131
+msgid "property-city"
+msgstr ""
+
+#: framework/include/property-post-type.php:139
+msgid "Search Property Status"
+msgstr ""
+
+#: framework/include/property-post-type.php:140
+msgid "Popular Property Status"
+msgstr ""
+
+#: framework/include/property-post-type.php:141
+msgid "All Property Status"
+msgstr ""
+
+#: framework/include/property-post-type.php:142
+msgid "Parent Property Status"
+msgstr ""
+
+#: framework/include/property-post-type.php:143
+msgid "Parent Property Status:"
+msgstr ""
+
+#: framework/include/property-post-type.php:144
+msgid "Edit Property Status"
+msgstr ""
+
+#: framework/include/property-post-type.php:145
+msgid "Update Property Status"
+msgstr ""
+
+#: framework/include/property-post-type.php:146
+msgid "Add New Property Status"
+msgstr ""
+
+#: framework/include/property-post-type.php:147
+msgid "New Property Status Name"
+msgstr ""
+
+#: framework/include/property-post-type.php:148
+msgid "Separate Property Status with commas"
+msgstr ""
+
+#: framework/include/property-post-type.php:149
+msgid "Add or remove Property Status"
+msgstr ""
+
+#: framework/include/property-post-type.php:150
+msgid "Choose from the most used Property Status"
+msgstr ""
+
+#: framework/include/property-post-type.php:162
+msgid "property-status"
+msgstr ""
+
+#: framework/include/property-post-type.php:169
+msgid "Search Property Direction"
+msgstr ""
+
+#: framework/include/property-post-type.php:170
+msgid "Popular Property Direction"
+msgstr ""
+
+#: framework/include/property-post-type.php:171
+msgid "All Property Direction"
+msgstr ""
+
+#: framework/include/property-post-type.php:172
+msgid "Parent Property Direction"
+msgstr ""
+
+#: framework/include/property-post-type.php:173
+msgid "Parent Property Direction:"
+msgstr ""
+
+#: framework/include/property-post-type.php:174
+msgid "Edit Property Direction"
+msgstr ""
+
+#: framework/include/property-post-type.php:175
+msgid "Update Property Direction"
+msgstr ""
+
+#: framework/include/property-post-type.php:176
+msgid "Add New Property Direction"
+msgstr ""
+
+#: framework/include/property-post-type.php:177
+msgid "New Property Direction Name"
+msgstr ""
+
+#: framework/include/property-post-type.php:178
+msgid "Separate Property Direction with commas"
+msgstr ""
+
+#: framework/include/property-post-type.php:179
+msgid "Add or remove Property Direction"
+msgstr ""
+
+#: framework/include/property-post-type.php:180
+msgid "Choose from the most used Property Direction"
+msgstr ""
+
+#: framework/include/property-post-type.php:192
+msgid "property-direction"
+msgstr ""
+
+#: framework/include/property-post-type.php:199
+msgid "Search Property Project"
+msgstr ""
+
+#: framework/include/property-post-type.php:200
+msgid "Popular Property Project"
+msgstr ""
+
+#: framework/include/property-post-type.php:201
+msgid "All Property Project"
+msgstr ""
+
+#: framework/include/property-post-type.php:202
+msgid "Parent Property Project"
+msgstr ""
+
+#: framework/include/property-post-type.php:203
+msgid "Parent Property Project:"
+msgstr ""
+
+#: framework/include/property-post-type.php:204
+msgid "Edit Property Project"
+msgstr ""
+
+#: framework/include/property-post-type.php:205
+msgid "Update Property Project"
+msgstr ""
+
+#: framework/include/property-post-type.php:206
+msgid "Add New Property Project"
+msgstr ""
+
+#: framework/include/property-post-type.php:207
+msgid "New Property Project Name"
+msgstr ""
+
+#: framework/include/property-post-type.php:208
+msgid "Separate Property Project with commas"
+msgstr ""
+
+#: framework/include/property-post-type.php:209
+msgid "Add or remove Property Project"
+msgstr ""
+
+#: framework/include/property-post-type.php:210
+msgid "Choose from the most used Property Project"
+msgstr ""
+
+#: framework/include/property-post-type.php:222
+msgid "property-project"
+msgstr ""
+
+#: framework/include/property-post-type.php:237
+#: template-submit-property.php:285 template-submit-property.php:541
+msgid "Property Title"
+msgstr "Tên bất động sản"
+
+#: framework/include/property-post-type.php:238
+#: framework/include/slide-post-type.php:45
+msgid "Thumbnail"
+msgstr ""
+
+#: framework/include/property-post-type.php:239
+#: template-submit-property.php:423 template-submit-property.php:717
+msgid "Address"
+msgstr "Địa chỉ"
+
+#: framework/include/property-post-type.php:240
+#: template-submit-property.php:306 template-submit-property.php:578
+msgid "City"
+msgstr "Thành phố"
+
+#: framework/include/property-post-type.php:241
+#: template-submit-property.php:297 template-submit-property.php:553
+msgid "Type"
+msgstr "Loại BĐS"
+
+#: framework/include/property-post-type.php:242
+#: template-submit-property.php:315 template-submit-property.php:603
+msgid "Status"
+msgstr "Trạng thái BĐS"
+
+#: framework/include/property-post-type.php:243
+msgid "Price"
+msgstr "Đơn giá"
+
+#: framework/include/property-post-type.php:272
+msgid "No Thumbnail"
+msgstr ""
+
+#: framework/include/property-post-type.php:284
+msgid "No Address Provided!"
+msgstr ""
+
+#: framework/include/property-post-type.php:302
+#: framework/include/property-post-type.php:311
+#: framework/include/property-post-type.php:320
+#: framework/include/slide-post-type.php:72 functions.php:579 functions.php:606
+msgid "NA"
+msgstr ""
+
+#: framework/include/property-post-type.php:339
+msgid "Payment Information"
+msgstr ""
+
+#: framework/include/property-post-type.php:347 functions.php:1582
+msgid "Not Available"
+msgstr ""
+
+#: framework/include/property-post-type.php:361 functions.php:1545
+msgid "Transaction ID"
+msgstr ""
+
+#: framework/include/property-post-type.php:365 functions.php:1546
+msgid "Payment Date"
+msgstr ""
+
+#: framework/include/property-post-type.php:369 functions.php:1547
+msgid "First Name"
+msgstr "Tên"
+
+#: framework/include/property-post-type.php:373 functions.php:1548
+msgid "Last Name"
+msgstr "Họ và đệm"
+
+#: framework/include/property-post-type.php:377 functions.php:1549
+msgid "Payer Email"
+msgstr ""
+
+#: framework/include/property-post-type.php:381 functions.php:1550
+msgid "Payment Status"
+msgstr ""
+
+#: framework/include/property-post-type.php:385
+msgid "Payment Amount"
+msgstr ""
+
+#: framework/include/property-post-type.php:389
+msgid "Payment Currency"
+msgstr ""
+
+#: framework/include/slide-post-type.php:7
+msgid "Slides"
+msgstr ""
+
+#: framework/include/slide-post-type.php:8
+msgid "Slide"
+msgstr ""
+
+#: framework/include/slide-post-type.php:10
+msgid "Add New Slide"
+msgstr ""
+
+#: framework/include/slide-post-type.php:11
+msgid "Edit Slide"
+msgstr ""
+
+#: framework/include/slide-post-type.php:12
+msgid "New Slide"
+msgstr ""
+
+#: framework/include/slide-post-type.php:13
+msgid "View Slide"
+msgstr ""
+
+#: framework/include/slide-post-type.php:14
+msgid "Search Slide"
+msgstr ""
+
+#: framework/include/slide-post-type.php:15
+msgid "No Slide found"
+msgstr ""
+
+#: framework/include/slide-post-type.php:16
+msgid "No Slide found in Trash"
+msgstr ""
+
+#: framework/include/slide-post-type.php:44
+msgid "Slide Title"
+msgstr ""
+
+#: framework/include/slide-post-type.php:46
+msgid "Slide Sub Text"
+msgstr ""
+
+#: framework/include/slide-post-type.php:47
+msgid "Date"
+msgstr ""
+
+#: framework/include/slide-post-type.php:64
+msgid "No Slider Image"
+msgstr ""
+
+#: framework/include/slide-post-type.php:87
+msgid "Slide Information"
+msgstr ""
+
+#: framework/include/slide-post-type.php:104
+msgid "Sub Text"
+msgstr ""
+
+#: framework/include/slide-post-type.php:108
+msgid "This text will appear below Title in Slider Navigation."
+msgstr ""
+
+#: framework/include/slide-post-type.php:113
+msgid "Target URL"
+msgstr ""
+
+#: framework/include/slide-post-type.php:117
+msgid "This URL will be applied on Slide Image."
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:34
+#: framework/meta-box/config-meta-boxes.php:48
+msgid "Video Embed Code"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:49
+msgid ""
+"If you are not using self hosted videos then please provide the video embed "
+"code and remove the width and height attributes."
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:64 template-submit-property.php:454
+#: template-submit-property.php:735
+msgid "Gallery Images"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:78
+msgid "Upload Gallery Images"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:80
+msgid ""
+"Images should have minimum width of 830px and minimum height of 323px, "
+"Bigger size images will be cropped automatically."
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:88
+#: framework/meta-box/config-meta-boxes.php:250 functions.php:1389
+#: functions.php:1391 functions.php:1432 functions.php:1434
+#: template-submit-property.php:484 template-submit-property.php:556
+#: template-submit-property.php:581 template-submit-property.php:606
+#: template-submit-property.php:749
+msgid "None"
+msgstr "Không"
+
+#: framework/meta-box/config-meta-boxes.php:102 single-property.php:17
+msgid "Property Details"
+msgstr "Chi tiết"
+
+#: framework/meta-box/config-meta-boxes.php:116
+msgid "Gallery Type"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:117
+msgid ""
+"Select the type of gallery that you want to use for this property images"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:122
+msgid "Gallery with thumbnails on right"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:123
+msgid "Gallery with thumbnails on bottom"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:127
+msgid "Property Gallery Images"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:129
+msgid ""
+"Provide images for gallery on property detail page. Images should have "
+"minimum size of 770px by 386px for thumbnails on right and 830px by 460px "
+"for thumbnails on bottom. ( Bigger images will be cropped automatically )"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:135
+msgid "Property Price"
+msgstr "Đơn giá"
+
+#: framework/meta-box/config-meta-boxes.php:136
+msgid ""
+"Provide Sale OR Rent Price. ( Plesae only provide digits ) Example Value: "
+"435000"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:142
+#: template-submit-property.php:344 template-submit-property.php:651
+msgid "Price Postfix Text"
+msgstr "Đơn vị tiền tệ"
+
+#: framework/meta-box/config-meta-boxes.php:143
+msgid ""
+"Text provided here will appear after price. ( You can also leave it empty ) "
+"Example Value: Per Month"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:149
+msgid "Property Size"
+msgstr "Diện tích"
+
+#: framework/meta-box/config-meta-boxes.php:150
+msgid "Provide size ( Please only provide digits ) Example Value: 2500"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:156
+msgid "Size Postfix Text"
+msgstr "Đơn vị diện tích"
+
+#: framework/meta-box/config-meta-boxes.php:157
+msgid ""
+"Text provided here will appear after size. ( You can also leave it empty ) "
+"Example Value: Sq Ft"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:163
+#: property-details/property-metas.php:17 template-submit-property.php:324
+#: template-submit-property.php:631
+msgid "Bedrooms"
+msgstr "Số phòng ngủ"
+
+#: framework/meta-box/config-meta-boxes.php:164
+msgid "Provide number of bedrooms. Example Value: 4"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:170
+#: property-details/property-metas.php:23 template-submit-property.php:329
+#: template-submit-property.php:636
+msgid "Bathrooms"
+msgstr "Số phòng tắm"
+
+#: framework/meta-box/config-meta-boxes.php:171
+msgid "Provide number of bathrooms. Example Value: 2"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:177
+#: property-details/property-metas.php:29 template-submit-property.php:334
+#: template-submit-property.php:641
+msgid "Garages"
+msgstr "Nhà để xe"
+
+#: framework/meta-box/config-meta-boxes.php:178
+msgid "Provide number of garages. Example Value: 1"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:185
+msgid ""
+"Text provided here will be used to search the property directly. ( You can "
+"also leave it empty )"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:191
+msgid "Property Address"
+msgstr "Địa chỉ"
+
+#: framework/meta-box/config-meta-boxes.php:192
+msgid "Provide property address."
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:198
+msgid "Property Location at Google Map*"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:199
+msgid ""
+"Drag the google map marker to point your property location. You can also use "
+"the address field above to search for your property."
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:207
+#: template-submit-property.php:364 template-submit-property.php:365
+#: template-submit-property.php:671 template-submit-property.php:672
+msgid "Virtual Tour Video URL"
+msgstr "Video URL"
+
+#: framework/meta-box/config-meta-boxes.php:208
+msgid ""
+"Provide virtual tour video URL. Theme supports YouTube, Vimeo, SWF File and "
+"MOV File"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:212
+msgid "Virtual Tour Video Image"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:214
+msgid ""
+"Provide the image that will be displayed as place holder and when a user "
+"clicks over it the video will be opened in a lightbox. You must provide this "
+"image as otherwise the video will not be displayed on property details page. "
+"Image should have minimum width of 818px and minimum height 417px. Bigger "
+"size images will be cropped automatically."
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:219
+#: template-submit-property.php:371 template-submit-property.php:678
+msgid "Mark this Property as Featured"
+msgstr "Đánh dấu là nổi bật"
+
+#: framework/meta-box/config-meta-boxes.php:220
+msgid ""
+"Marking this property featured will display it in featured properties "
+"sections across the theme."
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:226
+msgid "Add in Homepage Slider"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:227
+msgid ""
+"Do you want to add this property in Homepage Slider ? If Yes, Then you also "
+"need to provide slider image below."
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:232
+msgid "Yes "
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:233
+msgid "No"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:237
+msgid "Slider Image"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:239
+msgid ""
+"Provide the image that will be displayed in Homepage Slider. The recommended "
+"image size is 2000px by 700px. You can use bigger or little smaller image "
+"but try to keep the same height to width ratio and use the exactly same size "
+"images for all properties that will be added in slider."
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:244
+#: template-submit-property.php:481 template-submit-property.php:746
+msgid "What to display in agent information box ?"
+msgstr "Có muốn hiển thị thông tin chuyên viên?"
+
+#: framework/meta-box/config-meta-boxes.php:245
+msgid ""
+"You need to select an agent from select box below, If you are choosing to "
+"display an agent's information"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:251
+msgid "Author profile information"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:252
+msgid "Display agent's Information"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:259
+msgid "Please select related Agent."
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:276
+msgid "Titles"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:283
+msgid "Values"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:298
+msgid "Featured Patners Meta"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:312
+msgid "Partner Url"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:314
+msgid "Paste here Partner Website link"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:329
+msgid "Provide Related Information"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:345
+msgid ""
+"Provide Agent's Email Address. Agent related messages from contact form on "
+"property details page, will be sent on this email address."
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:349 functions.php:1679
+msgid "Mobile Number"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:351
+msgid "Provide Agent's mobile number"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:355 functions.php:1680
+msgid "Office Number"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:357
+msgid "Provide Agent's office number"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:361 functions.php:1681
+msgid "Fax Number"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:363
+msgid "Provide Agent's fax number"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:367
+msgid "Facebook URL"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:369
+msgid "Provide Agent's Facebook URL"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:373
+msgid "Twitter URL"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:375
+msgid "Provide Agent's Twitter URL"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:379
+msgid "Google Plus URL"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:381
+msgid "Provide Agent's Google Plus URL"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:385
+msgid "LinkedIn URL"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:387
+msgid "Provide Agent's LinkedIn URL"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:400
+msgid "Top Banner Area Settings"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:416
+msgid ""
+"Please provide the Banner Title, Otherwise the Page Title will be displayed "
+"in its place."
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:422
+msgid "Please provide the Banner Sub Title."
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:428
+#: framework/meta-box/config-meta-boxes.php:463
+msgid "Banner Image"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:430
+#: framework/meta-box/config-meta-boxes.php:465
+msgid ""
+"Please upload the Banner Image. Otherwise the default banner image from "
+"theme options will be displayed."
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:435
+msgid "Revolution Slider Alias"
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:437
+msgid ""
+"If you want to replace banner with revolution slider then provide its alias "
+"here."
+msgstr ""
+
+#: framework/meta-box/config-meta-boxes.php:449
+msgid "Top Banner"
+msgstr ""
+
+#: framework/meta-box/inc/field.php:185
+msgid "+"
+msgstr ""
+
+#: framework/meta-box/inc/field.php:202
+msgid "&#8211;"
+msgstr ""
+
+#: framework/meta-box/inc/fields/button.php:35
+msgid "Click me"
+msgstr ""
+
+#: framework/meta-box/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr ""
+
+#: framework/meta-box/inc/fields/file-advanced.php:64
+msgctxt "file upload"
+msgid "Select or Upload Files"
+msgstr ""
+
+#: framework/meta-box/inc/fields/file-advanced.php:100
+#: framework/meta-box/inc/fields/file.php:137
+msgctxt "file upload"
+msgid "Delete"
+msgstr ""
+
+#: framework/meta-box/inc/fields/file-advanced.php:101
+#: framework/meta-box/inc/fields/file.php:138
+msgctxt "file upload"
+msgid "Edit"
+msgstr ""
+
+#: framework/meta-box/inc/fields/file-input.php:17
+msgid "Select File"
+msgstr ""
+
+#: framework/meta-box/inc/fields/file-input.php:40
+msgid "Select"
+msgstr ""
+
+#: framework/meta-box/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: framework/meta-box/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: framework/meta-box/inc/fields/file.php:70
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: framework/meta-box/inc/fields/file.php:83
+msgctxt "file upload"
+msgid "Upload Files"
+msgstr ""
+
+#: framework/meta-box/inc/fields/file.php:84
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr ""
+
+#: framework/meta-box/inc/fields/image-advanced.php:22
+msgid "Select Images"
+msgstr ""
+
+#: framework/meta-box/inc/fields/image-advanced.php:70
+msgctxt "image upload"
+msgid "Select or Upload Images"
+msgstr ""
+
+#: framework/meta-box/inc/fields/image-advanced.php:106
+#: framework/meta-box/inc/fields/image.php:136
+msgctxt "image upload"
+msgid "Delete"
+msgstr ""
+
+#: framework/meta-box/inc/fields/image-advanced.php:107
+#: framework/meta-box/inc/fields/image.php:137
+msgctxt "image upload"
+msgid "Edit"
+msgstr ""
+
+#: framework/meta-box/inc/fields/image.php:70
+#: framework/meta-box/inc/fields/thickbox-image.php:34
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr ""
+
+#: framework/meta-box/inc/fields/image.php:71
+msgctxt "image upload"
+msgid "+ Add new image"
+msgstr ""
+
+#: framework/meta-box/inc/fields/map.php:48 template-submit-property.php:426
+#: template-submit-property.php:720
+msgid "Find Address"
+msgstr ""
+
+#: framework/meta-box/inc/fields/oembed.php:54
+msgid "Embed HTML not available."
+msgstr ""
+
+#: framework/meta-box/inc/fields/oembed.php:76
+msgid "Preview"
+msgstr ""
+
+#: framework/meta-box/inc/fields/plupload-image.php:102
+msgctxt "image upload"
+msgid "Drop images here"
+msgstr ""
+
+#: framework/meta-box/inc/fields/plupload-image.php:103
+msgctxt "image upload"
+msgid "or"
+msgstr ""
+
+#: framework/meta-box/inc/fields/plupload-image.php:104
+msgctxt "image upload"
+msgid "Select Files"
+msgstr ""
+
+#: framework/meta-box/inc/fields/plupload-image.php:179
+msgctxt "image upload"
+msgid "Allowed Image Files"
+msgstr ""
+
+#: framework/meta-box/inc/fields/post.php:52
+msgid "Post"
+msgstr ""
+
+#: framework/meta-box/inc/fields/post.php:66
+#: framework/meta-box/inc/fields/taxonomy.php:40
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: framework/meta-box/inc/meta-box.php:241
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: functions.php:110 sidebar.php:6
+msgid "Default Sidebar"
+msgstr ""
+
+#: functions.php:118 sidebar-pages.php:6
+msgid "Pages Sidebar"
+msgstr ""
+
+#: functions.php:126 sidebar-contact.php:6
+msgid "Contact Sidebar"
+msgstr ""
+
+#: functions.php:134 sidebar-property.php:6
+msgid "Property Sidebar"
+msgstr ""
+
+#: functions.php:142 sidebar-property-listing.php:6
+msgid "Property Listing Sidebar"
+msgstr ""
+
+#: functions.php:150 sidebar-dsIDX.php:6
+msgid "dsIDX Sidebar"
+msgstr ""
+
+#: functions.php:251
+msgid "First"
+msgstr ""
+
+#: functions.php:252
+msgid "Previous"
+msgstr ""
+
+#: functions.php:260
+msgid "Next"
+msgstr ""
+
+#: functions.php:261
+msgid "Last"
+msgstr ""
+
+#: functions.php:355
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:529
+msgid "Go to..."
+msgstr "Đi đến..."
+
+#: functions.php:553
+msgid "$"
+msgstr ""
+
+#: functions.php:648 functions.php:650 functions.php:694 functions.php:696
+#: functions.php:786 functions.php:788 functions.php:835 functions.php:837
+#: functions.php:885 functions.php:887 functions.php:937 functions.php:939
+#: functions.php:987 functions.php:989 template-parts/search-form.php:13
+#: template-parts/search-form.php:121 template-parts/search-form.php:126
+msgid "Any"
+msgstr "Bất kỳ"
+
+#: functions.php:1551
+msgid "Amount"
+msgstr "Số tiền"
+
+#: functions.php:1552
+msgid "Currency"
+msgstr "Tiền tệ"
+
+#: functions.php:1555
+msgid "Action"
+msgstr ""
+
+#: functions.php:1632
+msgid "No Completed Payment Found!"
+msgstr ""
+
+#: functions.php:1662 functions.php:1663
+msgid "Property Payments"
+msgstr "Thanh toán"
+
+#: header.php:72
+msgid "Email us at"
+msgstr ""
+
+#: header.php:94 template-submit-property.php:509
+#: template-submit-property.php:785
+msgid "Submit Property"
+msgstr "Đăng bài"
+
+#: header.php:98
+msgid "My Properties"
+msgstr "Bài của tôi"
+
+#: header.php:101
+msgid "Profile"
+msgstr "Hồ sơ"
+
+#: header.php:102
+msgid "Logout"
+msgstr "Đăng xuất"
+
+#: header.php:109
+msgid "Login"
+msgstr "Đăng nhập"
+
+#: header.php:110 template-login.php:83 template-login.php:102
+msgid "Register"
+msgstr "Đăng ký"
+
+#: loop.php:9
+msgid "No Posts Found!"
+msgstr ""
+
+#: property-details/property-agent-for-sidebar.php:20
+#: property-details/property-agent.php:21
+msgid "Submitted by"
+msgstr "Đăng bởi"
+
+#: property-details/property-agent-for-sidebar.php:63
+#: property-details/property-agent.php:65 single-agent.php:54
+#: template-agent-listing.php:71
+msgid "Office"
+msgstr ""
+
+#: property-details/property-agent-for-sidebar.php:66
+#: property-details/property-agent.php:68 single-agent.php:57
+#: template-agent-listing.php:74 template-contact.php:64
+msgid "Mobile"
+msgstr "Số điện thoại"
+
+#: property-details/property-agent-for-sidebar.php:69
+#: property-details/property-agent.php:71 single-agent.php:60
+#: template-agent-listing.php:77
+msgid "Fax"
+msgstr ""
+
+#: property-details/property-agent-for-sidebar.php:94
+#: property-details/property-agent-for-sidebar.php:115
+#: property-details/property-agent.php:115 single-agent.php:73
+#: template-agent-listing.php:91 template-contact.php:116
+msgid "Send Message"
+msgstr "Gửi tin nhắn"
+
+#: property-details/property-agent-for-sidebar.php:99
+#: property-details/property-agent.php:99 template-contact.php:89
+msgid "Name"
+msgstr "Họ và tên"
+
+#: property-details/property-agent-for-sidebar.php:99
+#: property-details/property-agent.php:99 template-contact.php:90
+msgid "* Please provide your name"
+msgstr ""
+
+#: property-details/property-agent-for-sidebar.php:101
+#: property-details/property-agent.php:101 template-contact.php:67
+#: template-contact.php:94 template-login.php:73 template-login.php:97
+msgid "Email"
+msgstr ""
+
+#: property-details/property-agent-for-sidebar.php:101
+#: property-details/property-agent.php:101
+msgid "* Please provide valid email address"
+msgstr ""
+
+#: property-details/property-agent-for-sidebar.php:103
+#: property-details/property-agent.php:103 template-contact.php:104
+msgid "Message"
+msgstr "Nội dung"
+
+#: property-details/property-agent-for-sidebar.php:103
+#: property-details/property-agent.php:103 template-contact.php:105
+msgid "* Please provide your message"
+msgstr ""
+
+#: property-details/property-children.php:76
+#: template-parts/property-for-grid.php:36
+#: template-parts/property-for-home.php:53
+#: template-parts/property-for-listing.php:53
+msgid "More Details "
+msgstr "Xem chi tiết"
+
+#: property-details/property-contents.php:67
+msgid "Print this page"
+msgstr ""
+
+#: property-details/property-map.php:69
+msgid "Share this"
+msgstr ""
+
+#: property-details/property-map.php:72
+msgid "Google"
+msgstr ""
+
+#: property-details/property-metas.php:17
+msgid "Bedroom"
+msgstr "Phòng ngủ"
+
+#: property-details/property-metas.php:23
+msgid "Bathroom"
+msgstr "Phòng tắm"
+
+#: property-details/property-metas.php:29
+msgid "Garage"
+msgstr ""
+
+#: recaptcha/custom-recaptcha.php:10
+msgid "Incorrect. Please try again."
+msgstr ""
+
+#: recaptcha/custom-recaptcha.php:13
+msgid "Enter the words above:"
+msgstr ""
+
+#: recaptcha/custom-recaptcha.php:14
+msgid "Enter the numbers you hear:"
+msgstr ""
+
+#: recaptcha/custom-recaptcha.php:23
+msgid "Get another CAPTCHA"
+msgstr ""
+
+#: recaptcha/custom-recaptcha.php:28
+msgid "Get an audio CAPTCHA"
+msgstr ""
+
+#: recaptcha/custom-recaptcha.php:33
+msgid "Get an image CAPTCHA"
+msgstr ""
+
+#: recaptcha/custom-recaptcha.php:38
+msgid "Help"
+msgstr "Trợ giúp"
+
+#: search.php:10
+msgid "Search Results"
+msgstr "Kết quả tìm kiếm"
+
+#: single.php:29 template-parts/article-for-listing.php:13
+msgid "Posted on"
+msgstr "Đăng trong"
+
+#: single.php:30 template-parts/article-for-listing.php:14
+msgid "by"
+msgstr "bởi"
+
+#: single.php:30 template-parts/article-for-listing.php:14
+msgid "in"
+msgstr "trong"
+
+#: template-agent-listing.php:84
+msgid "More Details"
+msgstr "Xem chi tiết"
+
+#: template-agent-listing.php:146 template-parts/grid-listing-container.php:57
+#: template-parts/listing-container.php:57
+msgid "Sorry No Results Found"
+msgstr ""
+
+#: template-contact.php:61
+msgid "Phone"
+msgstr "Số điện thoại"
+
+#: template-contact.php:95
+msgid "* Please provide a valid email address"
+msgstr ""
+
+#: template-contact.php:99
+msgid "Subject"
+msgstr "Chủ đề"
+
+#: template-home.php:211 template-my-properties.php:153 template-search.php:78
+msgid "No Properties Found!"
+msgstr ""
+
+#: template-login.php:17
+msgid "Log in / Register"
+msgstr "Đăng nhập/Đăng ký"
+
+#: template-login.php:31
+msgid "Already a Member? Log in here."
+msgstr "Đã là thành viên? Đăng nhập tại đây"
+
+#: template-login.php:34 template-login.php:68 template-login.php:92
+msgid "User Name"
+msgstr "Tài khoản"
+
+#: template-login.php:35 template-login.php:69 template-login.php:93
+msgid "* Please provide user name!"
+msgstr ""
+
+#: template-login.php:38
+msgid "Password"
+msgstr "Mật khẩu"
+
+#: template-login.php:39
+msgid "* Please provide password!"
+msgstr ""
+
+#: template-login.php:42
+msgid "Log in"
+msgstr "Đăng nhập"
+
+#: template-login.php:46
+msgid "Forgot password!"
+msgstr "Quên mật khẩu!"
+
+#: template-login.php:51
+msgid "User Name or Email"
+msgstr "Tài khoản hoặc Email"
+
+#: template-login.php:52
+msgid "* Please provide user name or email!"
+msgstr ""
+
+#: template-login.php:55
+msgid "Reset Password"
+msgstr "Khôi phúc mật khẩu"
+
+#: template-login.php:64 template-login.php:88
+msgid "Do not have an account? Register here"
+msgstr ""
+
+#: template-login.php:74 template-login.php:98
+msgid "* Please provide valid email address!"
+msgstr ""
+
+#: template-login.php:113
+msgid "You are already logged in!"
+msgstr "Bạn đã đăng nhập!"
+
+#: template-my-properties.php:19
+msgid "Success!"
+msgstr "Thành công!"
+
+#: template-my-properties.php:19
+msgid "Property removed."
+msgstr ""
+
+#: template-my-properties.php:23
+msgid "My Properties List"
+msgstr "Danh sách BĐS của tôi"
+
+#: template-my-properties.php:77
+msgid "Posted on :"
+msgstr "Đăng trong:"
+
+#: template-my-properties.php:118
+msgid "Payment Completed"
+msgstr ""
+
+#: template-my-properties.php:163
+msgid "Please, Log in to view your properties!"
+msgstr ""
+
+#: template-parts/article-for-listing.php:19
+msgid "Read more"
+msgstr "Xem thêm"
+
+#: template-parts/common-taxonomy.php:70
+msgid "No Results Found"
+msgstr ""
+
+#: template-parts/gallery.php:21
+msgid "All"
+msgstr "Tất cả"
+
+#: template-parts/gallery.php:27
+#, php-format
+msgid "View all Properties having %s status"
+msgstr ""
+
+#: template-parts/search-form.php:80 template-parts/search-form.php:98
+msgid "Min Price"
+msgstr "Giá tối thiểu"
+
+#: template-parts/search-form.php:89 template-parts/search-form.php:107
+msgid "Max Price"
+msgstr "Giá tối đa"
+
+#: template-parts/search-form.php:120
+msgid "Min Area"
+msgstr "Diện tích tối thiểu"
+
+#: template-parts/search-form.php:121 template-parts/search-form.php:126
+msgid "Please only provide digits!"
+msgstr ""
+
+#: template-parts/search-form.php:125
+msgid "Max Area"
+msgstr "Diện tích tối đa"
+
+#: template-parts/search-form.php:156
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: template-parts/sort-controls.php:2
+msgid "Sort By"
+msgstr "Sắp xếp"
+
+#: template-parts/sort-controls.php:5
+msgid "Default Order"
+msgstr "Mặc định"
+
+#: template-parts/sort-controls.php:6
+msgid "Price Low to High"
+msgstr "Giá từ thấp tới cao"
+
+#: template-parts/sort-controls.php:7
+msgid "Price High to Low"
+msgstr "Giá từ cao tới thâos"
+
+#: template-parts/sort-controls.php:8
+msgid "Date Old to New"
+msgstr "Thời gian từ cũ tới mới"
+
+#: template-parts/sort-controls.php:9
+msgid "Date New to Old"
+msgstr "Thời gian từ mới tới cũ"
+
+#: template-submit-property.php:184
+msgid "You can contact the submitter"
+msgstr "Bạn có thể liên hệ với người đăng"
+
+#: template-submit-property.php:186
+msgid "via email"
+msgstr "theo email"
+
+#: template-submit-property.php:189
+msgid "Property Submitted."
+msgstr "BĐS đã đăng."
+
+#: template-submit-property.php:190
+msgid "A new property has been submitted on your website."
+msgstr ""
+
+#: template-submit-property.php:196 template-submit-property.php:775
+msgid "Message to the Reviewer"
+msgstr "Thông điệp đến người đánh giá"
+
+#: template-submit-property.php:205
+msgid "You can preview it here"
+msgstr ""
+
+#: template-submit-property.php:252
+msgid "Error:"
+msgstr ""
+
+#: template-submit-property.php:252
+msgid "Security check failed!"
+msgstr ""
+
+#: template-submit-property.php:257 template-submit-property.php:259
+msgid "Success:"
+msgstr ""
+
+#: template-submit-property.php:259
+msgid "Property updated successfully!"
+msgstr ""
+
+#: template-submit-property.php:286 template-submit-property.php:542
+msgid "* Please provide property title!"
+msgstr ""
+
+#: template-submit-property.php:290 template-submit-property.php:546
+msgid "Property Description"
+msgstr "Mô tả"
+
+#: template-submit-property.php:325 template-submit-property.php:330
+#: template-submit-property.php:335 template-submit-property.php:340
+#: template-submit-property.php:350 template-submit-property.php:632
+#: template-submit-property.php:637 template-submit-property.php:642
+#: template-submit-property.php:647 template-submit-property.php:657
+msgid "* Please provide the value in only digits!"
+msgstr ""
+
+#: template-submit-property.php:339 template-submit-property.php:646
+msgid "Sale OR Rent Price"
+msgstr "Giá bán hoặc cho thuê"
+
+#: template-submit-property.php:349 template-submit-property.php:656
+msgid "Area"
+msgstr "Diện tích"
+
+#: template-submit-property.php:354 template-submit-property.php:661
+msgid "Area Postfix Text"
+msgstr "Đơn vị diện tích"
+
+#: template-submit-property.php:424 template-submit-property.php:718
+msgid "* Please provide a property address!"
+msgstr ""
+
+#: template-submit-property.php:433 template-submit-property.php:727
+msgid "Property Featured Image"
+msgstr "Ảnh đại diện"
+
+#: template-submit-property.php:446 template-submit-property.php:728
+msgid ""
+"* Please provide image with proper extension! Only .jpg .gif and .png are "
+"allowed.!"
+msgstr ""
+
+#: template-submit-property.php:448 template-submit-property.php:730
+msgid ""
+"Image should have minimum width of 770px and minimum height of 386px. "
+"( Bigger image will be cropped automatically )"
+msgstr ""
+"Hình ảnh cần phải có chiều rộng tối thiểu 770px và chiều cao tối thiểu "
+"386px. (Hình ảnh lớn hơn sẽ được cắt tự động)"
+
+#: template-submit-property.php:470
+msgid "Add more images to gallery"
+msgstr "Thêm ảnh vào gallery"
+
+#: template-submit-property.php:474 template-submit-property.php:739
+msgid "Add More"
+msgstr "Thêm nữa"
+
+#: template-submit-property.php:476 template-submit-property.php:741
+msgid ""
+"Provide images for gallery on property detail page. Images should have "
+"minimum width of 770px and minimum height of 386px. ( Bigger images will be "
+"cropped automatically )"
+msgstr ""
+"Hình ảnh cần phải có chiều rộng tối thiểu 770px và chiều cao tối thiểu "
+"386px. (Hình ảnh lớn hơn sẽ được cắt tự động)"
+
+#: template-submit-property.php:484 template-submit-property.php:749
+msgid "( Agent information box will not be displayed )"
+msgstr "(Thông tin chuyên viên sẽ không được hiển thị)"
+
+#: template-submit-property.php:488 template-submit-property.php:753
+msgid "My profile information"
+msgstr "Thông tin của tôi"
+
+#: template-submit-property.php:488 template-submit-property.php:753
+msgid "( You can add your profile information here )"
+msgstr "( Bạn có thể cập nhật thông tin tại đây )"
+
+#: template-submit-property.php:492 template-submit-property.php:757
+msgid "Display an agent's information"
+msgstr "Hiển thị thông tin của chuyên viên"
+
+#: template-submit-property.php:522
+msgid "Requested property does not belong to logged in user !"
+msgstr ""
+
+#: template-submit-property.php:528
+msgid "Requested post is not a valid property post !"
+msgstr ""
+
+#: template-submit-property.php:662
+msgid "Sq Ft"
+msgstr "m2"
+
+#: template-submit-property.php:800
+msgid "Login Required:"
+msgstr "Yêu cầu đăng nhập:"
+
+#: template-submit-property.php:800
+msgid "Please login to submit property!"
+msgstr "Vui lòng để đăng nhập để đăng bài của bạn!"
+
+#: widgets/advance-search-widget.php:6
+msgid "This widget displays advance search form."
+msgstr ""
+
+#: widgets/advance-search-widget.php:7
+msgid "RealHomes - Advance Search Widget"
+msgstr ""
+
+#: widgets/advance-search-widget.php:40
+msgid "Find Your Home"
+msgstr ""
+
+#: widgets/advance-search-widget.php:44
+#: widgets/featured-properties-widget.php:107
+#: widgets/property-types-widget.php:39
+msgid "Widget Title"
+msgstr ""
+
+#: widgets/featured-properties-widget.php:6
+msgid "Displays Random or Recent Featured Properties"
+msgstr ""
+
+#: widgets/featured-properties-widget.php:7
+msgid "RealHomes - Featured Properties"
+msgstr ""
+
+#: widgets/featured-properties-widget.php:72
+msgid "Read More"
+msgstr "Xem Thêm"
+
+#: widgets/featured-properties-widget.php:86
+msgid "No Featured Property Found!"
+msgstr ""
+
+#: widgets/featured-properties-widget.php:111
+msgid "Number of Properties"
+msgstr ""
+
+#: widgets/featured-properties-widget.php:115
+msgid "Sort By:"
+msgstr ""
+
+#: widgets/featured-properties-widget.php:117
+msgid "Most Recent"
+msgstr ""
+
+#: widgets/featured-properties-widget.php:118
+msgid "Random"
+msgstr ""
+
+#: widgets/property-types-widget.php:6
+msgid "This widget displays a list of Property Types"
+msgstr ""
+
+#: widgets/property-types-widget.php:7
+msgid "RealHomes - Property Types"
+msgstr ""
